@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_DefaultLayout.cshtml";
+}
+
+<!-- ANASAYFA'DA BULUNAN TÜM İÇERİKLER -->
+
+@await Component.InvokeAsync("_DefaultFeatureViewComponentPartial")
+
+@await Component.InvokeAsync("_DefaulProductListComponentPartial")
+
+@await Component.InvokeAsync("_DefaulWhoWeAreComponentPartial")
+
+@await Component.InvokeAsync("_DefaultServicesComponentPartial")
+
+@await Component.InvokeAsync("_DefaultProductListExploreCitiesComponentPartial")
