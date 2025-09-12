@@ -94,6 +94,154 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "WhoWeAreDetailList",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "CreateWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createWhoWeAreDetailDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreDetailDtos.CreateWhoWeAreDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "DeleteWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "UpdateWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateWhoWeAreDetailDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreDetailDtos.UpdateWhoWeAreDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "GetIDWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails/GetIDWhoWeAreDetail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreServicesController",
+    "Method": "WhoWeAreServiceList",
+    "RelativePath": "api/WhoWeAreServices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreServicesController",
+    "Method": "CreateWhoWeAreService",
+    "RelativePath": "api/WhoWeAreServices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createWhoWeAreServiceDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreServiceDtos.CreateWhoWeAreServiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreServicesController",
+    "Method": "DeleteWhoWeAreService",
+    "RelativePath": "api/WhoWeAreServices",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreServicesController",
+    "Method": "UpdateWhoWeAreService",
+    "RelativePath": "api/WhoWeAreServices",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateWhoWeAreServiceDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreServiceDtos.UpdateWhoWeAreServiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreServicesController",
+    "Method": "GetIDWhoWeAreService",
+    "RelativePath": "api/WhoWeAreServices/GetIDWhoWeAreService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RealEstate_Dapper_Api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
