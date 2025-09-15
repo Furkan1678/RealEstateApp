@@ -30,7 +30,7 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok("Kategori Başarıyla Eklendi.");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             _categoryRepository.DeleteCategory(id);
@@ -44,7 +44,7 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok("Kategori Güncelleme İşlemi Başarılı.");
         }
 
-        [HttpGet("GetCategory")]
+        [HttpGet("GetCategory{id}")]
         public async Task<IActionResult> GetCategory(int id)
         {
             var value = await _categoryRepository.GetCategory(id);

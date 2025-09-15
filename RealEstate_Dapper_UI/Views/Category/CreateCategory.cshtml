@@ -1,0 +1,36 @@
+﻿@model RealEstate_Dapper_UI.Dtos.CategoryDtos.CreateCategoryDto
+@{
+	ViewData["Title"] = "CreateCategory";
+	Layout = "~/Views/Admin/Index.cshtml";
+}
+
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Kategori Oluştur</h4>
+                </div>
+                <div class="card-body">
+                    <form  method="post">
+                        <div class="mb-3">
+                            <label asp-for="CategoryName" class="form-label">Kategori Adı</label>
+                            <input asp-for="CategoryName" class="form-control" placeholder="Örn: Daire, Arsa, Villa" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="CategoryStatus" class="form-label">Kategori Durumu</label>
+                            <select asp-for="CategoryStatus" class="form-select">
+                                <option value="true">Aktif</option>
+                                <option value="false">Pasif</option>
+                            </select>
+                        </div>
+
+                        <button type="submit" class="btn btn-success w-100">Kategori Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
