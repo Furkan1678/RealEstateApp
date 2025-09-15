@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\controllers\\whoweareservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\controllers\\whoweareservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\dtos\\whoweareservicedtos\\createwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\whoweareservicedtos\\createwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\shared\\components\\_defaultservicescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\components\\_defaultservicescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\dtos\\whoweareservicedtos\\updatewhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\whoweareservicedtos\\updatewhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\viewcomponents\\homepage\\_defaultservicescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\viewcomponents\\homepage\\_defaultservicescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\dtos\\whoweareservicedtos\\resultwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\whoweareservicedtos\\resultwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\dtos\\whoweareservicedtos\\getbyidwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\whoweareservicedtos\\getbyidwhoweareservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\repositories\\whowearerepository\\whoweareservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\whowearerepository\\whoweareservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\repositories\\whowearerepository\\iwhoweareservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\whowearerepository\\iwhoweareservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\dtos\\bottomgriddtos\\createbottomgriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\dtos\\bottomgriddtos\\createbottomgriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T15:25:31.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:05:31.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetByIdWhoWeAreServiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\GetByIdWhoWeAreServiceDto.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\GetByIdWhoWeAreServiceDto.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\GetByIdWhoWeAreServiceDto.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\GetByIdWhoWeAreServiceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:04:00.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultWhoWeAreServiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\ResultWhoWeAreServiceDto.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\ResultWhoWeAreServiceDto.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\ResultWhoWeAreServiceDto.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\ResultWhoWeAreServiceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:03:40.185Z"
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DefaultServicesComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DefaultServicesComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DefaultServicesComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DefaultServicesComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T15:28:59.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateWhoWeAreServiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\UpdateWhoWeAreServiceDto.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\UpdateWhoWeAreServiceDto.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\UpdateWhoWeAreServiceDto.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\UpdateWhoWeAreServiceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Title": "_DefaultServicesComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\ViewComponents\\HomePage\\_DefaultServicesComponentPartial.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\ViewComponents\\HomePage\\_DefaultServicesComponentPartial.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\ViewComponents\\HomePage\\_DefaultServicesComponentPartial.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\ViewComponents\\HomePage\\_DefaultServicesComponentPartial.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:03:33.525Z"
+              "WhenOpened": "2025-09-14T15:28:31.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateWhoWeAreServiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\CreateWhoWeAreServiceDto.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\CreateWhoWeAreServiceDto.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\CreateWhoWeAreServiceDto.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\WhoWeAreServiceDtos\\CreateWhoWeAreServiceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateBottomGridDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\BottomGridDtos\\CreateBottomGridDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Dtos\\BottomGridDtos\\CreateBottomGridDto.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\BottomGridDtos\\CreateBottomGridDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Dtos\\BottomGridDtos\\CreateBottomGridDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:03:17.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WhoWeAreServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\WhoWeAreServicesController.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\WhoWeAreServicesController.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\WhoWeAreServicesController.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\WhoWeAreServicesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T17:46:23.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WhoWeAreServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\WhoWeAreServiceRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\WhoWeAreServiceRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\WhoWeAreServiceRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\WhoWeAreServiceRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T17:15:52.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWhoWeAreServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\IWhoWeAreServiceRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\IWhoWeAreServiceRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\IWhoWeAreServiceRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\WhoWeAreRepository\\IWhoWeAreServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T17:11:37.11Z"
+              "WhenOpened": "2025-09-14T15:25:56.917Z"
             }
           ]
         }
