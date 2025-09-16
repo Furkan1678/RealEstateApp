@@ -1,0 +1,53 @@
+﻿@model RealEstate_Dapper_UI.Dtos.ProductDtos.CreateProductDto
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Kategori Oluştur</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">İlan Bailığı</label>
+                            <input type="text" asp-for="Title" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="City" class="form-label">Şehir</label>
+                            <input type="text" asp-for="City" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="District" class="form-label">İlçe</label>
+                            <input type="text" asp-for="District" class="form-control" placeholder="" />
+                            <br />
+                            <label class="form-label">Kategori Adı</label>
+                            @Html.DropDownListFor(c => c.categoryid, (List<SelectListItem>)ViewBag.c, new {@class= "form-control"})
+                            <br />
+                            <label asp-for="Price" class="form-label">Fiyat</label>
+                            <input type="text" asp-for="Price" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Type" class="form-label">Tür</label>
+                            <input type="text" asp-for="Type" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="CoverImage" class="form-label">Kapak Fotoğrafı</label>
+                            <input type="text" asp-for="CoverImage" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Address" class="form-label">İlan Açık Adresi</label>
+                            <textarea asp-for="Address" class="form-control" rows="5"></textarea>
+                            <br />
+                        </div>
+
+                  
+
+                        <button type="submit" class="btn btn-success w-100">Kategori Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

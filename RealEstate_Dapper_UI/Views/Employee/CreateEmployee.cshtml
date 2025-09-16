@@ -1,0 +1,46 @@
+﻿@model RealEstate_Dapper_UI.Dtos.EmployeeDtos.CreateEmployeeDto
+@{
+    ViewData["Title"] = "CreateEmployee";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Personel Oluştur</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">İsim</label>
+                            <input type="text" asp-for="Name" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Title" class="form-label">Başlık</label>
+                            <input type="text" asp-for="Title" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Mail" class="form-label">Mail</label>
+                            <input type="email" asp-for="Mail" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="PhoneNumber" class="form-label">Telefon Numarası</label>
+                            <input type="tel" asp-for="PhoneNumber" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="ImageUrl" class="form-label">Resim</label>
+                            <input type="text" asp-for="ImageUrl" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Status" class="form-label">Durum</label>
+                            <input type="text" asp-for="Status" class="form-control" placeholder="" />
+                            <br />
+                        </div>
+
+
+
+                        <button type="submit" class="btn btn-success w-100">Personeli Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -10,6 +10,6 @@
         public string CoverImage { get; set; }
         public string Type { get; set; }
         public string Address { get; set; }
-        public string categoryName { get; set; }
+        public string CategoryName { get; set; }
     }
 }
