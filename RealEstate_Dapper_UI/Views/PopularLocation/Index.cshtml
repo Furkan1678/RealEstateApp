@@ -1,0 +1,48 @@
+﻿@model List<RealEstate_Dapper_UI.Dtos.PopularLocationDtos.ResultPopularLocationDto>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Admin/Index.cshtml";
+	int count = 0; 
+}
+
+<div class="container-fluid pt-4 px-4">
+	<div class="row g-4">
+		<div class="col-12">
+			<div class="bg-light rounded h-100 p-4">
+				<h6 class="mb-4">Popüler Lokasyon Tablosu</h6>
+				<div class="table-responsive">
+					<table class="table">
+						<thead>
+							<tr>
+								<th scope="col">#</th>
+								<th scope="col">Şehir İsmi</th>
+								<th scope="col">Resim</th>
+								<th scope="col">Sil</th>
+								<th scope="col">Güncelle</th>
+						</thead>
+						<tbody>
+							@foreach (var item in Model)
+							{
+								count++;
+								<tr>
+									<th scope="row">@count</th>
+									<td>@item.CityName</td>
+									<td style="width: 15%; height:80%;"><img src="@item.ImageUrl" class="img-thumbnail w-100 p-1 " alt="" /></td>
+									<td><a href="/PopularLocation/DeletePopularLocation/@item.LocationID" class="btn btn-outline-danger">Sil</a></td>
+									<td><a href="/PopularLocation/UpdatePopularLocation/@item.LocationID" class="btn btn-outline-success">Güncelle</a></td>
+
+								</tr>
+
+							}
+
+						</tbody>
+					</table>
+					<a href="/PopularLocation/CreatePopularLocation" class="btn btn-outline-dark">Popüler Lokasyon Oluştur</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+

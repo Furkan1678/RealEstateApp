@@ -1,0 +1,43 @@
+﻿@model RealEstate_Dapper_UI.Dtos.WhoWeAreDetailDtos.GetByIdWhoWeAreDetailDto
+
+@{
+    ViewData["Title"] = "UpdateWhoWeAreDetail";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Biz Kimiz Güncelle</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <input type="hidden" asp-for="WhoWeAreDetailID" />
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Başlık</label>
+                            <input type="text" asp-for="Title" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="SubTitle" class="form-label">Alt Başlık</label>
+                            <input type="text" asp-for="SubTitle" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Description1" class="form-label">Birinci Açıklama</label>
+                            <textarea asp-for="Description1" class="form-control" rows="5"></textarea>
+                            <br />
+                            <label asp-for="Description2" class="form-label">İkinci Açıklama</label>
+                            <textarea asp-for="Description2" class="form-control" rows="5"></textarea>
+                            <br />
+                        </div>
+
+
+                        <button type="submit" class="btn btn-success w-100">Biz Kimiz Güncelle</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

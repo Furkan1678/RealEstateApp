@@ -1,0 +1,37 @@
+﻿@model RealEstate_Dapper_UI.Dtos.BottomGridDtos.CreateBottomGridDto
+@{
+    ViewData["Title"] = "CreateBottomGrid";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Alt Izgara Oluştur</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Alt Izgara Başlık</label>
+                            <input asp-for="Title" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Icon" class="form-label">İcon</label>
+                            <input asp-for="Icon" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="Title" class="form-label">Açıklama</label>
+                            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                            
+                        </div>
+
+                       
+
+                        <button type="submit" class="btn btn-success w-100">Alt Izgara Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

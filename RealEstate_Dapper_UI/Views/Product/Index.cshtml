@@ -1,7 +1,7 @@
 ﻿@model List<RealEstate_Dapper_UI.Dtos.ProductDtos.ResultProductDto>
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Admin/Index.cshtml";
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Admin/Index.cshtml";
 }
 
 <div class="container-fluid pt-4 px-4">
@@ -23,6 +23,7 @@
 								<th scope="col">Sil</th>
 								<th scope="col">Güncelle</th>
 								<th scope="col">Sitede Gör</th>
+								<th scope="col">Günün Fırsatı</th>
 						</thead>
 						<tbody>
 							@foreach (var item in Model)
@@ -38,6 +39,16 @@
 									<td><a href="/Product/DeleteProduct/@item.ProductID" class="btn btn-outline-danger">Sil</a></td>
 									<td><a href="/Product/UpdateProduct/@item.ProductID" class="btn btn-outline-success">Güncelle</a></td>
 									<td><a href="/Product/ProductDetail/@item.ProductID" class="btn btn-outline-primary">Sitede Gör</a></td>
+									<td>
+										@if (item.DealOfTheDay == true)
+										{
+											<a href="/Product/ProductDealOfTheDayStatusChangeToFalse/@item.ProductID" class="btn btn-outline-warning"> Pasif Yap</a>
+										}
+										@if (item.DealOfTheDay == false)
+										{
+											<a href="/Product/ProductDealOfTheDayStatusChangeToTrue/@item.ProductID" class="btn btn-outline-success"> Aktif Yap</a>
+										}
+									</td>
 
 								</tr>
 

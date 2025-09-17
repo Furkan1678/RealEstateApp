@@ -30,7 +30,7 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok("Biz Kimiz Servisler Kısmı Başarıyla Eklendi.");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteWhoWeAreService(int id)
         {
             _whoWeAreService.DeleteWhoWeAreService(id);
@@ -44,7 +44,7 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok("Biz Kimiz Servisler Kısmı Başarıyla Güncellendi.");
         }
 
-        [HttpGet("GetIDWhoWeAreService")]
+        [HttpGet("GetIDWhoWeAreService{id}")]
         public async Task<IActionResult> GetIDWhoWeAreService(int id)
         {
             var value = await _whoWeAreService.GetWhoWeAreService(id);

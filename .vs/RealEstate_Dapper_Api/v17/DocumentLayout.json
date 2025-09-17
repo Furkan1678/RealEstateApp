@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\shared\\components\\_dashboardlast4contactlistcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\components\\_dashboardlast4contactlistcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\repositories\\statisticrepository\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\statisticrepository\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\viewcomponents\\dashboard\\_dashboardlast4contactlistcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\viewcomponents\\dashboard\\_dashboardlast4contactlistcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\employee\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\employee\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\employee\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\dtos\\contactdtos\\getbyidcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\dtos\\contactdtos\\getbyidcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_ui\\dtos\\contactdtos\\resultlast4contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7736E99-FC04-47C3-A470-BDC04190CCA2}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\dtos\\contactdtos\\resultlast4contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\repositories\\contactrepository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\contactrepository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\realestate_dapper_api\\realestate_dapper_api\\repositories\\contactrepository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDE2EA4-04E8-4F4A-978E-85D02B94CD7E}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\contactrepository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +62,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Statistic\\Index.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Statistic\\Index.cshtml",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Statistic\\Index.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Statistic\\Index.cshtml",
-              "ViewState": "AgIAAKIAAACARPedSnQlwKoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T21:05:23.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StatisticController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\StatisticController.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Controllers\\StatisticController.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\StatisticController.cs",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Controllers\\StatisticController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAHAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T21:04:45.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStatisticRepository.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\StatisticRepository\\IStatisticRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\StatisticRepository\\IStatisticRepository.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\StatisticRepository\\IStatisticRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\StatisticRepository\\IStatisticRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T15:37:56.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\UpdateEmployee.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Employee\\UpdateEmployee.cshtml",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\UpdateEmployee.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Employee\\UpdateEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T13:04:53.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Employee\\CreateEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T13:04:35.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vysAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T12:58:29.901Z",
+              "WhenOpened": "2025-09-17T19:26:28.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DashboardLast4ContactListComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DashboardLast4ContactListComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DashboardLast4ContactListComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_DashboardLast4ContactListComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T19:26:15.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Title": "ResultLast4ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultLast4ContactDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultLast4ContactDto.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultLast4ContactDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultLast4ContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T12:33:31.666Z",
+              "WhenOpened": "2025-09-17T19:24:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetByIdContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\GetByIdContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:23:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\CreateContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:23:44.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Dtos\\ContactDtos\\ResultContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:23:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_DashboardLast4ContactListComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\ViewComponents\\Dashboard\\_DashboardLast4ContactListComponentPartial.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\ViewComponents\\Dashboard\\_DashboardLast4ContactListComponentPartial.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\ViewComponents\\Dashboard\\_DashboardLast4ContactListComponentPartial.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\ViewComponents\\Dashboard\\_DashboardLast4ContactListComponentPartial.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:20:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Program.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:59:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:56:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ContactRepository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\ContactRepository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ContactRepository\\ContactRepository.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\ContactRepository\\ContactRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:28:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ContactRepository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\ContactRepository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\ContactRepository\\IContactRepository.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\ContactRepository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:27:59.887Z",
               "EditorCaption": ""
             }
           ]

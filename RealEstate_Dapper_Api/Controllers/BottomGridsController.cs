@@ -27,7 +27,7 @@ namespace RealEstate_Dapper_Api.Controllers
              _bottomGridRepository.CreateBottomGrid(createBottomGridDto);
             return Ok("Servisler Başarıyla Oluşturuldu.");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBottomGrid(int id)
         {
             _bottomGridRepository.DeleteBottomGrid(id);
@@ -40,7 +40,7 @@ namespace RealEstate_Dapper_Api.Controllers
             _bottomGridRepository.UpdateBottomGrid(updateBottomGridDto);
             return Ok("Servisler Başarıyla Güncellendi.");
         }
-        [HttpGet("GetByIDBottomGrid")]
+        [HttpGet("GetByIDBottomGrid{id}")]
         public async Task<IActionResult> GetByIDBottomGrid(int id)
         {
             var value = await _bottomGridRepository.GetByIdBottomGridAsync(id);

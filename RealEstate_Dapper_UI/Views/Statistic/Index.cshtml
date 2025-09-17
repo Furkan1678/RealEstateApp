@@ -1,170 +1,219 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Admin/Index.cshtml";
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Admin/Index.cshtml";
 }
 
-<div class="container-fluid pt-4 px-4">
-    <div class="row g-4">
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-line fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Aktif Kategori</p>
-                    <h6 class="mb-0">@ViewBag.activeCategoryCount</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-bar fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Aktif Personel</p>
-                    <h6 class="mb-0">@ViewBag.activeEmployeeCount</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-area fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Daire Sayısı</p>
-                    <h6 class="mb-0">@ViewBag.apartmentCount</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-pie fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Ortalama Kiralık İlan Fiyatları</p>
-                    <h6 class="mb-0">@ViewBag.averageProductPriceByRent</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<style>
+    body {
+        background-color: #121212; /* Genel dark arka plan */
+        color: #e0e0e0;
+        font-family: Arial, sans-serif;
+    }
 
+    .stat-card {
+        background: linear-gradient(145deg, #1e1e1e, #2a2a2a);
+        border: none;
+        border-radius: 16px;
+        padding: 20px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+        transition: all 0.3s ease;
+    }
+
+    .stat-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 30px rgba(0, 200, 255, 0.2);
+    }
+
+    .stat-card i {
+        opacity: 0.9;
+    }
+
+    .stat-card p {
+        margin-bottom: 4px;
+        font-size: 0.9rem;
+        color: #b0b0b0;
+    }
+
+    .stat-card h6 {
+        color: #ffffff;
+        font-size: 1.3rem;
+    }
+</style>
 
 <div class="container-fluid pt-4 px-4">
     <div class="row g-4">
+        <!-- Aktif Kategori -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-line fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-signal fa-3x text-success"></i>
                 <div class="ms-3">
-                    <p class="mb-2">Ortalama Satılık İlan Fiyatları</p>
-                    <h6 class="mb-0">@ViewBag.averageProductPriceBySale</h6>
+                    <p>Aktif Kategori</p>
+                    <h6>@ViewBag.activeCategoryCount</h6>
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-bar fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">En Fazla İlana Sahip Kategori Adı</p>
-                    <h6 class="mb-0">@ViewBag.categoryNameByMaxProductCount</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-area fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">En Fazla İlana Sahip Şehir Adı</p>
-                    <h6 class="mb-0">@ViewBag.cityNameByMaxProductCount</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-pie fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Toplam Kaç Farklı Şehir Sayısı</p>
-                    <h6 class="mb-0">@ViewBag.differentCityCount</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
+        <!-- Aktif Personel -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-users fa-3x text-warning"></i>
+                <div class="ms-3">
+                    <p>Aktif Personel</p>
+                    <h6>@ViewBag.activeEmployeeCount</h6>
+                </div>
+            </div>
+        </div>
 
-<div class="container-fluid pt-4 px-4">
-    <div class="row g-4">
+        <!-- Daire Sayısı -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-line fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-building fa-3x text-info"></i>
                 <div class="ms-3">
-                    <p class="mb-2">En Fazla İlana Sahip Personel İsmi</p>
-                    <h6 class="mb-0">@ViewBag.employeeNameByMaxProductCount</h6>
+                    <p>Daire Sayısı</p>
+                    <h6>@ViewBag.apartmentCount</h6>
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-bar fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">Son İlan Fiyatı</p>
-                    <h6 class="mb-0">@ViewBag.lastProductPrice</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-area fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">En Yeni İnşa Yılı</p>
-                    <h6 class="mb-0">@ViewBag.newestBuildingYear</h6>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-pie fa-3x text-primary"></i>
-                <div class="ms-3">
-                    <p class="mb-2">En Eski İnşa Yılı</p>
-                    <h6 class="mb-0">@ViewBag.oldestBuildingYear</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
+        <!-- Ortalama Kiralık İlan Fiyatları -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-money-bill fa-3x text-danger"></i>
+                <div class="ms-3">
+                    <p>Ortalama Kiralık İlan Fiyatları</p>
+                    <h6>@ViewBag.averageProductPriceByRent</h6>
+                </div>
+            </div>
+        </div>
 
-<div class="container-fluid pt-4 px-4">
-    <div class="row g-4">
+        <!-- Ortalama Satılık İlan Fiyatları -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-line fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-money-check-alt fa-3x text-primary"></i>
                 <div class="ms-3">
-                    <p class="mb-2">Pasif Kategori</p>
-                    <h6 class="mb-0">@ViewBag.passiveCategoryCount</h6>
+                    <p>Ortalama Satılık İlan Fiyatları</p>
+                    <h6>@ViewBag.averageProductPriceBySale</h6>
                 </div>
             </div>
         </div>
+
+        <!-- En Fazla İlana Sahip Kategori -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-bar fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-cogs fa-3x text-secondary"></i>
                 <div class="ms-3">
-                    <p class="mb-2">Toplam İlan Sayısı</p>
-                    <h6 class="mb-0">@ViewBag.productCount</h6>
+                    <p>En Fazla İlana Sahip Kategori</p>
+                    <h6>@ViewBag.categoryNameByMaxProductCount</h6>
                 </div>
             </div>
         </div>
+
+        <!-- En Fazla İlana Sahip Şehir -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-area fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-city fa-3x text-dark"></i>
                 <div class="ms-3">
-                    <p class="mb-2">Ortalama Oda Sayısı</p>
-                    <h6 class="mb-0">@ViewBag.avarageRoomCount</h6>
+                    <p>En Fazla İlana Sahip Şehir</p>
+                    <h6>@ViewBag.cityNameByMaxProductCount</h6>
                 </div>
             </div>
         </div>
+
+        <!-- Farklı Şehir Sayısı -->
         <div class="col-sm-6 col-xl-3">
-            <div class="bg-light rounded d-flex align-items-center justify-content-between p-4">
-                <i class="fa fa-chart-pie fa-3x text-primary"></i>
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-globe-americas fa-3x text-success"></i>
                 <div class="ms-3">
-                    <p class="mb-2">Toplam Kategori Sayısı</p>
-                    <h6 class="mb-0">@ViewBag.categoryCount</h6>
+                    <p>Toplam Kaç Farklı Şehir</p>
+                    <h6>@ViewBag.differentCityCount</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- En Fazla İlana Sahip Personel -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-user fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p>En Fazla İlana Sahip Personel</p>
+                    <h6>@ViewBag.employeeNameByMaxProductCount</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- Son İlan Fiyatı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-calendar fa-3x text-info"></i>
+                <div class="ms-3">
+                    <p>Son İlan Fiyatı</p>
+                    <h6>@ViewBag.lastProductPrice</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- En Yeni İnşa Yılı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-building fa-3x text-warning"></i>
+                <div class="ms-3">
+                    <p>En Yeni İnşa Yılı</p>
+                    <h6>@ViewBag.newestBuildingYear</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- En Eski İnşa Yılı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-history fa-3x text-danger"></i>
+                <div class="ms-3">
+                    <p>En Eski İnşa Yılı</p>
+                    <h6>@ViewBag.oldestBuildingYear</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pasif Kategori -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-toggle-off fa-3x text-secondary"></i>
+                <div class="ms-3">
+                    <p>Pasif Kategori</p>
+                    <h6>@ViewBag.passiveCategoryCount</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- Toplam İlan Sayısı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-th-large fa-3x text-dark"></i>
+                <div class="ms-3">
+                    <p>Toplam İlan Sayısı</p>
+                    <h6>@ViewBag.productCount</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ortalama Oda Sayısı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-bed fa-3x text-info"></i>
+                <div class="ms-3">
+                    <p>Ortalama Oda Sayısı</p>
+                    <h6>@ViewBag.productCount</h6>
+                </div>
+            </div>
+        </div>
+
+        <!-- Toplam Kategori Sayısı -->
+        <div class="col-sm-6 col-xl-3">
+            <div class="stat-card d-flex align-items-center justify-content-between">
+                <i class="fa fa-list fa-3x text-danger"></i>
+                <div class="ms-3">
+                    <p>Toplam Kategori Sayısı</p>
+                    <h6>@ViewBag.categoryCount</h6>
                 </div>
             </div>
         </div>

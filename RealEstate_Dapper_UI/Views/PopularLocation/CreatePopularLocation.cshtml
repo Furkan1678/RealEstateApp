@@ -1,0 +1,36 @@
+﻿@model RealEstate_Dapper_UI.Dtos.PopularLocationDtos.CreatePopularLocationDto
+
+@{
+    ViewData["Title"] = "CreatePopularLocation";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white text-center">
+                    <h4>Popüler Lokasyon Oluştur</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label asp-for="CityName" class="form-label">Şehir İsmi</label>
+                            <input asp-for="CityName" class="form-control" placeholder="" />
+                            <br />
+                            <label asp-for="ImageUrl" class="form-label">Resim</label>
+                            <input asp-for="ImageUrl" class="form-control" placeholder="" />
+                            <br />
+                         
+                        </div>
+
+
+
+                        <button type="submit" class="btn btn-success w-100">Popüler Lokasyon Oluştur</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

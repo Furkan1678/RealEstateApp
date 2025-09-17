@@ -2,7 +2,7 @@
 {
     public class ResultWhoWeAreServiceDto
     {
-        public int ServiceID { get; set; }
+        public int WhoWeAreServiceID { get; set; }
         public string ServiceName { get; set; }
         public bool ServiceStatus { get; set; }
     }
